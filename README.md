@@ -1,4 +1,4 @@
-# test_tech_NCQ_algo1
+# test_tech_NCQ
 import numpy as np
 from numpy import zeros,array
 
